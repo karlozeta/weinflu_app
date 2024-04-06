@@ -1,0 +1,34 @@
+class WeinfluCopys {
+  WeinfluCopys._();
+  static const String lorem =
+      'Lorem ipsum dolor sit amet, consectetuer adipiscing.';
+  static const String hello = 'Hello';
+  static const String userInputLabel = 'User Name';
+  static const String userNameInputLabel = 'Name';
+  static const String userPswInputLabel = 'Password';
+  static const String rememberMe = 'Remember me';
+  static const String recoveryPassword = 'Recovery Password';
+  static const String orContinue = 'Or Continue with';
+  static const String or = 'Or';
+  static const String google = 'Google';
+  static const String facebook = 'Facebook';
+  static const String logIn = 'Log In';
+  static const String notAMember = 'Not a member?';
+  static const String registerNow = 'Register Now';
+  static const String singIn = 'Sing In';
+  static const String iAgree = 'I agree with';
+  static const String terms = 'Terms';
+  static const String and = 'and';
+  static const String privacy = 'Privacy';
+  static const String getStarted = 'Get Started';
+  static const String alredyAccount = 'Already have an account?';
+  static const String recentTrx = 'Recent transactions';
+}
+
+class WeinFluErrors{
+  WeinFluErrors._();
+  static const String userError = 'Ingrese un usuario';
+  static const String userErrorLen = 'Ingrese un usuario valido';
+  static const String userPsw = 'Verifique su contraseña';
+
+}
